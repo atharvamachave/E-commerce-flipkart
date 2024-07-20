@@ -1,0 +1,19 @@
+.Home-mini-banner-container {
+  width: 98%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  background: #fff;
+  height: 105px;
+  margin-top: 10px;
+}
+
+.Home-mini-banner-container .images {
+  padding: 32px;
+  cursor: pointer;
+}
+
+.Home-mini-banner-container .image-category {
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.carousel-container {
+  width: 98%;
+  max-height: 300px;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel-item img {
+  height: 300px; /* Set the height you desire for the images */
+  object-fit: cover; /* Ensure the images cover the container without stretching */
+}
+
+.carousel-caption {
+  bottom: 20px; /* Adjust the position of the captions if needed */
+}
